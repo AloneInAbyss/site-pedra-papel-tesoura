@@ -8,4 +8,4 @@ Informações para contato:
 
 > **Email**: thiago-assi@outlook.com
 
-> **Site**: [KŪHAKU](https://thiago-assi.000webhostapp.com/)
+> **Site**: https://thiago-assi.000webhostapp.com/
