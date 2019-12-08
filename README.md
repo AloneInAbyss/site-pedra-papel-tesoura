@@ -7,5 +7,3 @@ Informações para contato:
 > **Nome**: Thiago Henrique Assi
 
 > **Email**: thiago-assi@outlook.com
-
-> **Site**: https://thiago-assi.000webhostapp.com/
